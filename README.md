@@ -1,8 +1,6 @@
 
-# Project Title
-📊 Size, dependencies, version, code coverage
-
-Short description.
+# WiseBox
+System for inventory management.
 
 ## Contents
 Table of contents goes here
@@ -11,96 +9,67 @@ Table of contents goes here
 Sth.
 
 ## ⭐ Features
-Introductory sentance.
 
-⭐ **Feature 1**
+⭐ **Feature 1: Creating new magazines**
 
-Description of feature 1.
+⭐ **Feature 2: Adding items**
 
-⭐ **Feature 2**
+⭐ **Feature 3: Template management**
 
-Description of feature 2.
+⭐ **Feature 4: Making orders**
 
-## 📝 Examples
-**Example 1. Title**
+⭐ **Feature 5: Product browser**
 
-Description of the example.
-```javascript
-CODE GOES HERE
-```
-**Example 2. Title**
+⭐ **Feature 6: Search**
 
-Description of the example.
-```javascript
-CODE GOES HERE
-```
+⭐ **Feature 7: Analytics**
+
+⭐ **Feature 8: Predicting needs**
+
+⭐ **Feature 9: QR code scanning**
+
+⭐ **Feature 10: Bar code scanning**
+
 
 ## 👨‍💻 Contributing
-Sth
-
-## 📦 Builds
 Sth
 
 ## 📂 Directory Structure
 Sth
 
-## 📅 Release schedule / Development schedule / Plans / TODOs
+## 📅 Development Schedule
+
 **Version 1.0.0**
 
-- [x] Feature 1
-- [x] Feature 2
-- [x] Feature 3
+- [ ] ⭐ Feature 1: Creating new magazines
+- [ ] ⭐ Feature 2: Adding items
 
-**Version 2.0.0**
+**Version 1.5.0**
 
-- [ ] Feature 4
-- [ ] Feature 5
-- [ ] Feature 6
+- [ ] ⭐ Feature 5: Product browser
+- [ ] ⭐ Feature 6: Search
 
-## 🆕 Changelog
-A changelog is a file which contains a curated, chronologically ordered list of notable changes for each version of a project.
+**Next versions**
 
-## ⚙ Configurations
-Sth
-
-## 💡 Tips
-💭 **Tip 1**
-
-Description of tip 1.
-
-💭 **Tip 2**
-
-Description of tip 1.
-
-## 🚧 Warnings / Common Errors / Known Issues
-
-⚠️ **Warning 1**
-
-Description of warning 1.
-
-⚠️ **Warning 2**
-
-Description of warning 2.
-
-## 🧰 Troubleshooting
-🚩 **Error 1**
-
-Solution to error 1.
-
-``` SOLUTION CODE ```
-
-🚩 **Error 2**
-
-Solution to error 2.
+- [ ] ⭐ Feature 3: Template management
+- [ ] ⭐ Feature 4: Making orders
+- [ ] ⭐ Feature 7: Analytics
+- [ ] ⭐ Feature 8: Predicting needs
+- [ ] ⭐ Feature 9: QR code scanning
+- [ ] ⭐ Feature 10: Bar code scanning
 
 
-``` SOLUTION CODE ```
+## 🆕 Timeline
 
-## 🚀 Upgrading
+02/10/2022  Introductory meeting (1/3): Project idea
+
+11/10/2022  Introductory meeting (2/3): Product development
+
+11/10/2022  Introductory meeting (3/3): Plan of implementation
+
+## 🚀 How to run
 Description.
 
-## 📖 Documentation
-Link to the wiki or external site.
 
 ## 🔗 Related Projects / Thanks / References / Acknowledgement 
 * Description 1 [Name 1](http://markdown.github.io)
