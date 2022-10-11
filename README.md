@@ -32,7 +32,18 @@ Sth.
 
 
 ## 👨‍💻 Contributing
-Sth
+- [gustaff122](https://github.com/gustaff122)
+- [SzymkowskiDev](https://github.com/SzymkowskiDev)
+- [aszuta](https://github.com/aszuta)
+- [IgorObrebski](https://github.com/IgorObrebski)
+- [OmikM](https://github.com/OmikM)
+- [kuprelweronika](https://github.com/kuprelweronika)
+- [FifaSter14](https://github.com/FifaSter14)
+- [belluu](https://github.com/belluu)
+- [carexo](https://github.com/carexo)
+- [viniales12](https://github.com/viniales12)
+- [exonix01](https://github.com/exonix01)
+
 
 ## 📂 Directory Structure
 Sth
