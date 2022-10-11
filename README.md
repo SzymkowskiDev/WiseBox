@@ -71,10 +71,8 @@ Sth
 Description.
 
 
-## 🔗 Related Projects / Thanks / References / Acknowledgement 
-* Description 1 [Name 1](http://markdown.github.io)
-* Description 2 [Name 2](http://markdown.github.io)
-* Description 3 [Name 3](http://markdown.github.io)
+## 🔗 Related Projects
+* Project WiseBox [kanban board](https://github.com/users/SzymkowskiDev/projects/7/views/1)
 
 ## 🎓 Learning Materials
 * Description 1 [Name 1](http://markdown.github.io)
