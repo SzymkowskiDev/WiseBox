@@ -39,7 +39,7 @@ Table of contents goes here
 
 ## 👨‍💻 Contributing
 
-**FRONTEND:**
+**FRONT-END:**
 - [gustaff122](https://github.com/gustaff122)
 - [IgorObrebski](https://github.com/IgorObrebski)
 - [OmikM](https://github.com/OmikM)
@@ -47,7 +47,7 @@ Table of contents goes here
 - [carexo](https://github.com/carexo)
 - [aszuta](https://github.com/aszuta)
 
-**BACKEND:**
+**BACK-END:**
 - [SzymkowskiDev](https://github.com/SzymkowskiDev)
 - [FifaSter14](https://github.com/FifaSter14)
 - [belluu](https://github.com/belluu)
