@@ -88,6 +88,8 @@ Sth
 
 11/10/2022  Introductory meeting (3/3): Plan of implementation
 
+30/12/2022  Project completion
+
 ## 🚀 How to run
 Description.
 
