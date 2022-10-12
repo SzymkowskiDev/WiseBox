@@ -45,7 +45,6 @@ Table of contents goes here
 - [OmikM](https://github.com/OmikM)
 - [kuprelweronika](https://github.com/kuprelweronika)
 - [carexo](https://github.com/carexo)
-- [aszuta](https://github.com/aszuta)
 
 **BACK-END:**
 - [SzymkowskiDev](https://github.com/SzymkowskiDev)
