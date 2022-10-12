@@ -1,0 +1,6 @@
+[submodule "wisebox-app"]
+	path = wisebox-app
+	url = https://github.com/SzymkowskiDev/wisebox-app.git
+[submodule "wisebox-api"]
+	path = wisebox-api
+	url = https://github.com/SzymkowskiDev/wisebox-api
