@@ -8,6 +8,8 @@ Table of contents goes here
 ## 🔗 Related Projects
 * Project WiseBox [kanban board](https://github.com/users/SzymkowskiDev/projects/7/views/1)
 * [Stock Management App - Product Dev](https://docs.google.com/presentation/d/1SaUgI18FyfAL5Uog8QySECC6E3kM6Q4cG24k13o8O6k/edit?usp=sharing)
+* Frontend App online [https://szymkowskidev.github.io/wisebox-app/](https://szymkowskidev.github.io/wisebox-app/)
+
 
 ## 🎓 Learning Materials
 * Description 1 [Name 1](http://markdown.github.io)
