@@ -51,7 +51,6 @@ Table of contents goes here
 **BACK-END:**
 - [SzymkowskiDev](https://github.com/SzymkowskiDev)
 - [FifaSter14](https://github.com/FifaSter14)
-- [belluu](https://github.com/belluu)
 - [viniales12](https://github.com/viniales12)
 - [exonix01](https://github.com/exonix01)
 
