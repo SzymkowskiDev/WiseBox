@@ -1,6 +1,12 @@
 
+<p align="center">
+  <img width="450" height="140" src="https://github.com/SzymkowskiDev/WiseBox/blob/master/WiseBox_Logo.png?raw=true">
+</p>
+
 # WiseBox
 System for inventory management.
+
+
 
 ## Contents
 Table of contents goes here
