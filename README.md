@@ -6,21 +6,10 @@
 # WiseBox
 System for inventory management.
 
-
-
-## Contents
-Table of contents goes here
-
 ## 🔗 Related Projects
 * Project WiseBox [kanban board](https://github.com/users/SzymkowskiDev/projects/7/views/1)
 * [Stock Management App - Product Dev](https://docs.google.com/presentation/d/1SaUgI18FyfAL5Uog8QySECC6E3kM6Q4cG24k13o8O6k/edit?usp=sharing)
 * Frontend App online [https://szymkowskidev.github.io/wisebox-app/](https://szymkowskidev.github.io/wisebox-app/)
-
-
-## 🎓 Learning Materials
-* Description 1 [Name 1](http://markdown.github.io)
-* Description 2 [Name 2](http://markdown.github.io)
-* Description 3 [Name 3](http://markdown.github.io)
 
 ## ⭐ Features
 
@@ -60,10 +49,6 @@ Table of contents goes here
 - [viniales12](https://github.com/viniales12)
 - [exonix01](https://github.com/exonix01)
 
-
-## 📂 Directory Structure
-Sth
-
 ## 📅 Development Schedule
 
 **Version 1.0.0**
@@ -96,12 +81,6 @@ Sth
 
 30/12/2022  Project completion
 
-## 🚀 How to run
-Description.
-
-
-## 📧 Contact
-[![](https://img.shields.io/twitter/url?label=/kamil-szymkowski/&logo=linkedin&logoColor=%230077B5&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkamil-szymkowski%2F)](https://www.linkedin.com/in/kamil-szymkowski/) [![](https://img.shields.io/twitter/url?label=@szymkowskidev&logo=medium&logoColor=%23292929&style=social&url=https%3A%2F%2Fmedium.com%2F%40szymkowskidev)](https://medium.com/@szymkowskidev) [![](https://img.shields.io/twitter/url?label=/SzymkowskiDev&logo=github&logoColor=%23292929&style=social&url=https%3A%2F%2Fgithub.com%2FSzymkowskiDev)](https://github.com/SzymkowskiDev)
 
 ## 📄 License
 [MIT License](https://choosealicense.com/licenses/mit/) ©️ 2019-2020 [Kamil Szymkowski](https://github.com/SzymkowskiDev "Get in touch!")
